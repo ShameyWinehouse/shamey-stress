@@ -1,0 +1,1 @@
+INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `groupId`, `metadata`, `desc`) VALUES ('accessiblity_stress_salve', 'Stress Salve', '1', '0', 'item_standard', '0', '1', '{}', '[Accessibility]');
